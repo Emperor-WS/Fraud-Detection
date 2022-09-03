@@ -9,4 +9,4 @@ pylab\
 minisom\
 numpy\
 matplotlib\
-and pandas\
+and pandas
